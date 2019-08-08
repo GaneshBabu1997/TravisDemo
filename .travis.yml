@@ -1,3 +1,4 @@
- language: python
- script:
-    - file1.py
+  language: python
+  script:
+    - file2.py
+
